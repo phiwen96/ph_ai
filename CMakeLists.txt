@@ -41,7 +41,7 @@ endif ()
 
 
 
-Fetch (TARGETS ph_data_structures ph_concepts const_str)
+Fetch (TARGETS ph_data_structures ph_concepts ph_string)
 
 # find_package (OpenSSL REQUIRED)
 
